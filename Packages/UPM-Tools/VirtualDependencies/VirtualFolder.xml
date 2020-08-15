@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Assets>
+  <Directory path="Plugins/Android">
+    <Link path="PluginFolder" name="Tapjoy"/>
+  </Directory>
+  <Link path="Settings" name="Tapjoy"/>
+</Assets>
