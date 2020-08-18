@@ -1,9 +1,7 @@
 {
-    "name": "com.quickeye.upm-tools",
-    "displayName": "UPM Tools",
-    "version": "0.1.0",
-    "unity": "2018.3",
-    "description": "",
-    "dependencies": {}
-  }
-  
+  "name": "com.quickeye.dependency-linker",
+  "displayName": "Dependency Linker",
+  "version": "0.1.0",
+  "unity": "2018.3",
+  "description": "Management system for dependencies inside \"Assets\" directory.\nUPM package can link directories/files inside Assets directory and warn user about its dependencies, clean up and update them."
+}
