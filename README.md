@@ -23,7 +23,9 @@ TODO:
 * ~~Find manifest files in the project~~
 * Manifest Parser
 * Dependency resolver
+* Settings window
 
 QoL:
 * When resolver sees that it has links from package that no longer exists in the project it asks the user if he wants to move them to trash.
 * User can Manually mark folders as package dependencies that doesnt implement Dependency Links.
+* XML Schema
